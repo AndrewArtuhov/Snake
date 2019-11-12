@@ -1,0 +1,7 @@
+C:\Users\МВИДЕО\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\МВИДЕО\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\МВИДЕО\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\МВИДЕО\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\МВИДЕО\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\МВИДЕО\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\МВИДЕО\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
